@@ -24,11 +24,9 @@ Thank you for considering  my  profile!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/deepak-yadav-1272551a6/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/upendrasc2001/" height="30" width="40" /></a>
-&ensp;&ensp;&ensp;<a href="https://www.codechef.com/users/yaddeepak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1920px-Codechef%28new%29_logo.svg.png" alt="upendrasc2001" height="30" width="40" /></a>
-&ensp;&ensp;&ensp;<a href="https://leetcode.com/aaddd/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="upsc1002" height="30" width="40" /></a>
-<!-- <a href="https://auth.geeksforgeeks.org/user/upendrasc2001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="upendrasc2001" height="30" width="40" /></a> -->
-<!-- <a href="https://medium.com/@upendrasc2001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" alt="https://medium.com/@upendrasc2001" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/deepak-yadav-1272551a6/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/upendrasc2001/" height="30" width="40" /></a>&ensp;&ensp;&ensp;<a href="https://www.codechef.com/users/yaddeepak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1920px-Codechef%28new%29_logo.svg.png" alt="upendrasc2001" height="30" width="40" /></a>&ensp;&ensp;&ensp;<a href="https://leetcode.com/aaddd/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="upsc1002" height="30" width="40" /></a>
+&ensp;&ensp;&ensp;<a href="https://codeforces.com/profile/Deepakydv" target="blank"><img align="center" src="https://styles.redditmedia.com/t5_33o1k/styles/communityIcon_xcagst8qta391.png" alt="Codeforces" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
